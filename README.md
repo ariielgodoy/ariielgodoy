@@ -47,6 +47,10 @@ I am currently working as an intern at DEKRA, where I am involved in tasks relat
 **Bachelor's Degree in Electronics, Robotics and Mechatronics Engineering**  
 _University of Málaga (2021 – 2026)_
 
+**Bachelor's Degree in Electronics, Robotics and Mechatronics Engineering (Erasmus program)**  
+_University of Liège (2021 – 2026)_
+
+
 ---
 
 ## 📫 Get in Touch

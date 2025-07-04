@@ -63,7 +63,7 @@ _University of Liège (2021 – 2026)_
 
 ## 📊 GitHub Stats
 
-![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariielgodoy&show_icons=true&theme=github_dark)
+![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariielgodoy&show_icons=true&theme=github_dark&cache_bust=3)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariielgodoy&layout=compact&theme=github_dark&cache_bust=3)
 

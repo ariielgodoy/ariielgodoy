@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juan Ariel Godoy Báez
+# Hi, I'm Juan Ariel Godoy Báez
 
 ![Python](https://img.shields.io/badge/code-python-blue?logo=python)
 ![C++](https://img.shields.io/badge/code-C++-blue?logo=c%2B%2B)
@@ -22,11 +22,11 @@ I'm a proactive and resourceful person, passionate about getting involved in cha
 
 - 🧠 **Deep Learning**: Neural networks, CNNs, Transformers, etc.
 - 🕹️ **Reinforcement Learning**: Simulated environments, agent-based systems, autonomous control.
-- 🚗 **Autonomous Vehicles**: ROS 2 robotics stacks, perception/planning algorithms and Simulation in CARLA.
+- 🚗 **Autonomous Vehicles**: ROS 2 robotics stacks, perception/planning algorithms and Simulation in Gazebo.
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
 **Intern – DEKRA Spain**  
 I am currently working as an intern at DEKRA, where I am involved in tasks related to quality control, ISO standards, FCC regulatory requirements, and working with professional equipment and lab environments.

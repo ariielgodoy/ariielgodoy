@@ -36,7 +36,7 @@ I am currently working as an intern at DEKRA, where I am involved in tasks relat
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, C++, MATLAB
-- **Frameworks**: TensorFlow, PyTorch, OpenAI Gym
+- **Frameworks**: PyTorch, OpenAI Gym
 - **Robotics**: ROS 2, microcontrollers, embedded systems
 - **Tools**: Git, Linux, SCPI, VISA, AutoCAD
 

@@ -12,17 +12,17 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a proactive and resourceful person, passionate about getting involved in challenging projects where I can contribute meaningfully. I’m especially interested in the intersection of **deep learning**, **reinforcement learning** and **robotics**.
 
 ---
 
-## 🤖 Interests
+## Interests
 
-- 🧠 **Deep Learning**: Neural networks, CNNs, Transformers, etc.
-- 🕹️ **Reinforcement Learning**: Simulated environments, agent-based systems, autonomous control.
-- 🚗 **Autonomous Vehicles**: ROS 2 robotics stacks, perception/planning algorithms and Simulation in Gazebo.
+- **Deep Learning**: Neural networks, CNNs, Transformers, etc.
+- **Reinforcement Learning**: Simulated environments, agent-based systems, autonomous control.
+- **Autonomous Vehicles**: ROS 2 robotics stacks, perception/planning algorithms and Simulation in Gazebo.
 
 ---
 
@@ -33,7 +33,7 @@ I am currently working as an intern at DEKRA, where I am involved in tasks relat
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Languages**: Python, C++, MATLAB
 - **Frameworks**: PyTorch, OpenAI Gym
@@ -42,7 +42,7 @@ I am currently working as an intern at DEKRA, where I am involved in tasks relat
 
 ---
 
-## 📚 Education
+## Education
 
 **Bachelor's Degree in Electronics, Robotics and Mechatronics Engineering**  
 _University of Málaga (2021 – 2026)_
@@ -54,14 +54,14 @@ _University of Liège (2023 – 2024)_
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - [LinkedIn – arielgodoy](https://es.linkedin.com/in/arielgodoy)
 - Email: _juanarielgodoybaez750@gmail.com_
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariielgodoy&show_icons=true&theme=github_dark&cache_bust=3)
 

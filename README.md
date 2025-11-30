@@ -38,7 +38,7 @@ I am currently working as an intern at DEKRA, where I am involved in tasks relat
 - **Languages**: Python, C++, MATLAB, VHDL
 - **Frameworks**: PyTorch, OpenAI Gym
 - **Robotics**: ROS 2, microcontrollers, embedded systems
-- **Tools**: Git, Linux, SCPI, VISA, AutoCAD
+- **Tools**: Git, Linux, Accelerated Computing with Modern CUDA C++, VISA, AutoCAD
 
 ---
 

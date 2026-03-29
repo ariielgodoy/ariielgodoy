@@ -29,7 +29,11 @@ I'm a proactive and resourceful person, passionate about getting involved in cha
 ## Internship Experience
 
 **Intern – DEKRA Spain**  
-I am currently working as an intern at DEKRA, where I am involved in tasks related to quality control, ISO standards, FCC regulatory requirements, and working with professional equipment and lab environments.
+I worked as an intern at DEKRA, where I am involved in tasks related to quality control, ISO standards, FCC regulatory requirements, and working with professional equipment and lab environments.
+
+
+**Intern – Enerclic Innovatio S.L**  
+I worked as an intern at Enerclic Innovatio S.L, where I performed tests with the different products in the market, gaining experience in embedded systems and the culture of developing products in a fast and growing environment.
 
 ---
 
